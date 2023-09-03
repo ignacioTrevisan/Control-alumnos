@@ -1,0 +1,11 @@
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\bin\Debug\NegocioAlumnos.dll
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\bin\Debug\NegocioAlumnos.pdb
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\bin\Debug\DatosAlumnos.dll
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\bin\Debug\EntidadAlumno.dll
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\bin\Debug\DatosAlumnos.pdb
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\bin\Debug\EntidadAlumno.pdb
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\obj\Debug\NegocioAlumnos.dll
+C:\Users\nacho\source\repos\ProyectoEscuela\NegocioAlumnos\obj\Debug\NegocioAlumnos.pdb

@@ -1,0 +1,12 @@
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\ProyectoEscuela.exe.config
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\ProyectoEscuela.exe
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\ProyectoEscuela.pdb
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.csproj.SuggestedBindingRedirects.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.Form1.resources
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.NuevoAlumno.resources
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.Properties.Resources.resources
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.csproj.GenerateResource.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.exe
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.pdb

@@ -1,0 +1,17 @@
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\ProyectoEscuela.exe.config
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\ProyectoEscuela.exe
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\ProyectoEscuela.pdb
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\FrontAlumnos.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\FrontAlumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.NuevoAlumno.resources
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.Properties.Resources.resources
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\FrontAlumnos.csproj.GenerateResource.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\FrontAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.exe
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.pdb
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\EntidadAlumno.dll
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\NegocioAlumnos.dll
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\EntidadAlumno.pdb
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\bin\Debug\NegocioAlumnos.pdb
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\ProyectoEscuela.Front.resources
+C:\Users\nacho\source\repos\ProyectoEscuela\ProyectoEscuela\obj\Debug\FrontAlumnos.csproj.CopyComplete

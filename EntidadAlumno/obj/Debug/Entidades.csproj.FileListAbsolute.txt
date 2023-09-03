@@ -1,0 +1,6 @@
+C:\Users\nacho\source\repos\ProyectoEscuela\EntidadAlumno\bin\Debug\EntidadAlumno.dll
+C:\Users\nacho\source\repos\ProyectoEscuela\EntidadAlumno\bin\Debug\EntidadAlumno.pdb
+C:\Users\nacho\source\repos\ProyectoEscuela\EntidadAlumno\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\EntidadAlumno\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\ProyectoEscuela\EntidadAlumno\obj\Debug\EntidadAlumno.dll
+C:\Users\nacho\source\repos\ProyectoEscuela\EntidadAlumno\obj\Debug\EntidadAlumno.pdb
